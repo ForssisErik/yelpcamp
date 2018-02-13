@@ -1,0 +1,25 @@
+{
+  "name": "yelpcamp",
+  "version": "1.0.0",
+  "description": "YelpCamp",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ForssisErik/yelpcamp.git"
+  },
+  "author": "Erik Forsström",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ForssisErik/yelpcamp/issues"
+  },
+  "homepage": "https://github.com/ForssisErik/yelpcamp#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "mongoose": "^5.0.4"
+  }
+}
